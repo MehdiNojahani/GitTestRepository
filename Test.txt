@@ -4,3 +4,7 @@ ma baz omadim ba git tamrin konimm '
 be hishkiam rabti nadarh 
 
 jajajajahahalskdsd
+
+-------------------------------
+
+be onvan editor 1 file ro check va dar github push and commit kardam
